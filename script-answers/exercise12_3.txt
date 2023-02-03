@@ -1,3 +1,2 @@
-Script started on 2023-01-19 16:02:41+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="211" LINES="50"]
-[A[Acd usr/src/appölsnsnoano indezxxx.jsconeole.log(''sole.log()OD''ODHello Worldexitexit
+Script started on 2023-01-19 16:02:41+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="211" LINES="50"]cd usr/src/applsnano index.jsconeole.log(''sole.log()OD''ODHello Worldexitexit
 Script done on 2023-01-19 16:05:10+02:00 [COMMAND_EXIT_CODE="0"]

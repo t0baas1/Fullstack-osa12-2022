@@ -1,0 +1,3 @@
+Script started on 2023-02-03 10:06:21+02:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="117" LINES="63"]
+sudo docker exec -it todo-backend-redis-1 /bin/shredis-cliKEYS *GET REDIS_KEYINCRBY REDIS_KEY 8999DELREDIS_KEYexitexitexit
+Script done on 2023-02-03 10:08:46+02:00 [COMMAND_EXIT_CODE="0"]

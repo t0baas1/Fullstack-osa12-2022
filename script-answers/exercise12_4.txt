@@ -1,3 +1,2 @@
-Script started on 2023-01-19 16:18:03+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="211" LINES="50"]
-[A[Acurl -sL http:s://deb.nodesource.com/setup_16.x | bashapt install -y nodejsnode /usr/src/app/index.jsexitexit
+Script started on 2023-01-19 16:18:03+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="211" LINES="50"]curl -sL http:s://deb.nodesource.com/setup_16.x | bashapt install -y nodejsnode /usr/src/app/index.jsexitexit
 Script done on 2023-01-19 16:20:12+02:00 [COMMAND_EXIT_CODE="0"]
